@@ -1,0 +1,4 @@
+#Wed Oct 19 13:12:25 CEST 2022
+base.0=/Users/tristan/Desktop/E4FE/1er semestre/androide/Exercices/hello_world/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
